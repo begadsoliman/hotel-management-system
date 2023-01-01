@@ -9,5 +9,4 @@
 ![Screenshot (40)](https://user-images.githubusercontent.com/53488954/81294157-1af05280-908c-11ea-98c0-1ed9bd8aaa43.png)
 ## Add room
 ![Screenshot (41)](https://user-images.githubusercontent.com/53488954/81294174-1fb50680-908c-11ea-8fcf-ad3a26d67e6f.png)
-## booking request
-![Screenshot (43)](https://user-images.githubusercontent.com/53488954/81294191-25125100-908c-11ea-995a-934f5cbcc818.png)
+
